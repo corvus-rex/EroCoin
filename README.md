@@ -1,5 +1,4 @@
 # EroCoin
-![erocoin_logo](https://i.gyazo.com/368adb5755b56212d36463f0fe50ad3f.png)
  
  
  A naive implementation of blockchain cryptocurrency + crypto-wallet
